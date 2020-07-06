@@ -1,0 +1,2 @@
+# Distributed_Spider
+分布式Scrapy_Redis爬虫
